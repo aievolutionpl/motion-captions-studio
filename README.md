@@ -1,3 +1,13 @@
+# Motion Captions Studio
+
+AI Evolution Polska development fork of FableCut (MIT). Stage: foundation audit.
+
+[Project plan](docs/PLAN.md) | [Setup](docs/MOTION_CAPTIONS.md) | [Verified results and limitations](docs/M0_AUDIT.md)
+
+The original FableCut documentation follows. Upstream authorship and license are preserved.
+
+---
+
 <div align="center">
 
 <img src="docs/fablecut-banner.png" alt="FableCut" width="800">
